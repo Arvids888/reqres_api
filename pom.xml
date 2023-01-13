@@ -46,6 +46,15 @@
         <artifactId>selenium-api</artifactId>
         <version>4.7.2</version>
     </dependency>
-
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-web</artifactId>
+        <version>5.3.22</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-lang3</artifactId>
+        <version>3.12.0</version>
+    </dependency>
 </dependencies>
 </project>
